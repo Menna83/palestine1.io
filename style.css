@@ -1,0 +1,85 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: black;
+}
+.home{
+   background-image: url(./images/Dome\ of\ the\ Rock\ قبة\ الصخرة.jpg);
+   background-repeat: no-repeat;
+   height: 100vh;
+   background-position: 100 100%;
+   background-size: cover;
+}
+.info{
+    padding-top: 18%;
+    text-align: center;
+    color: white;
+   
+}
+.btn{
+    width: 90px;
+    padding: 10px;
+    border: none;
+    border-radius: 45%;
+    margin-top: 20px;
+    color: black;
+    background-color:white;
+}
+.item{
+    padding-top: 5%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.two{
+   display: inline-block;
+    
+}
+img{
+    width: 100%;
+}
+.three{
+    background-color: black;
+    color: white;
+    padding: 60px;
+   
+
+}
+.iitem{
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+.iiitem{
+    float: left;
+    width: 49%;
+    padding: 8px;
+   
+}
+.iiitem img{
+    width: 100%;
+}
+.clear{
+    clear: both;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.cap{
+    padding-top: 50%;
+}
+.four{
+    background-color: black;
+}
